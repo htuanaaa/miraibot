@@ -1,0 +1,269 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "gai2k.js",
+        "gai2k.js",
+        "gai2k.js",
+        "AdminUpdate.js",
+        "AdminUpdate.js",
+        "rank.js.js",
+        "rank.js.js",
+        "help.js.js",
+        "menu.js.js",
+        "gai2k.js",
+        "gai2k.js",
+        "gai2k.js",
+        "gai2k.js",
+        "shortcur.js",
+        "test1.js",
+        "Hi.js",
+        "luật.js",
+        "bot.js",
+        "quê.js",
+        "ảo.js",
+        "bạn.js",
+        "là.js",
+        "nhất.js",
+        "chết.js",
+        "cha.js",
+        "còn.js",
+        "cái.js",
+        "nịt.js",
+        "buồn.js",
+        "vĩnh.js",
+        "biệt.js",
+        "dốt.js",
+        "tham.js",
+        "lam.js",
+        "Mày.js",
+        "đừng.js",
+        "có.js",
+        "mà.js",
+        "bốc.js",
+        "phét.js",
+        "bruh.js",
+        "gạch.js",
+        "ống.js",
+        "lthm.js",
+        "mrmsc.js",
+        "xạo.js",
+        "lờ.js",
+        "yamero.js",
+        "alaba.js",
+        "trap.js",
+        "bạn.js",
+        "là.js",
+        "nhất.js",
+        "Bóng.js",
+        "giả.js",
+        "Bửa.js",
+        "chán.js",
+        "khoc.js",
+        "chó.js",
+        "chúa.js",
+        "hề.js",
+        "còn.js",
+        "cái.js",
+        "nịt.js",
+        "cua.js",
+        "Đánh.js",
+        "chết.js",
+        "cha.js",
+        "dark.js",
+        "đen.js",
+        "Lì.js",
+        "xì.js",
+        "Lottery.js",
+        "Test.js",
+        "Try.js",
+        "it.js",
+        "Liên.js",
+        "o.js",
+        "mobile.js",
+        "banmuoidiem.js",
+        "tokyo.js",
+        "tromcho.js",
+        "bopvu.js",
+        "búcu.js",
+        "gainga.js",
+        "gadit.js",
+        "phub.js",
+        "chitay.js",
+        "dongho.js",
+        "nameJP.js",
+        "chonlua.js",
+        "Nsfw.js",
+        "2pHon.js",
+        "girlnude.js",
+        "hannaUwU.js",
+        "nobra.js",
+        "onlyfans.js",
+        "panti.js",
+        "NSFW.js"
+    ],
+    "eventDisabled": [
+        "AdminUpdate.js",
+        "adminUpdate.js",
+        "adminUpdate.js",
+        "joinNoti.js",
+        "joinNoti.js",
+        "joinNoti.js"
+    ],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Mirai Cute",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100041633326114",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.9",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "606fda3b109baf1879bfebeb85b47b5e275c4dbb"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyB-UX0tzF5YBDq6uIsZAhpr9yyzyA7nslQ",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB-UX0tzF5YBDq6uIsZAhpr9yyzyA7nslQ"
+    },
+    "weather": {
+        "OPEN_WEATHER": "196ac91264f90df6590b46309556229f"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "shortlink": {
+        "bitlyAPI": "150ef1bc3af86500796d645c86f56766e4802566"
+    },
+    "log": {
+        "enable": true
+    },
+    "covid": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "hitbutt": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "img": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "linkword": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "slap": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "sortword": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "teach": {
+        "APIKEY": "MEWQ2hpcDI1MDI7bDNsY2hpcHBAZ21haWwuY29t"
+    },
+    "in4": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 10,
+        "delayUnsend": 10
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyBJl0esWNv12ukwIjSARrqof0zI2XXt3Y4",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "tiktok": {
+        "APIKEY": ""
+    }
+}
